@@ -1,0 +1,7 @@
+{"order_status_id": 1, "order_status": "Confirmed"},
+{"order_status_id": 2, "order_status": "Processed"},
+{"order_status_id": 3, "order_status": "Shipped"},
+{"order_status_id": 4, "order_status": "Delivered"},
+{"order_status_id": 5, "order_status": "Cancelled"},
+{"order_status_id": 6, "order_status": "Returned"},
+{"order_status_id": 7, "order_status": "Refunded"},
